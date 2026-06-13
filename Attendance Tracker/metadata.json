@@ -1,0 +1,6 @@
+{
+  "name": "Attendance Tracker",
+  "description": "A comprehensive web-based tracker to manage students, record daily attendance, analyze trends with visual reports, and manage attendance history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
